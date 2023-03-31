@@ -1,4 +1,9 @@
-cpf - string
-name - string
-id - uuid
-statement []
+Atributos de usuario
+    cpf - string
+    name - string
+    id - uuid
+    statement []
+
+
+verifyIfExistsAccountCPF - middleware para verificar se
+existe uma conta com o cpf passado na requisição
