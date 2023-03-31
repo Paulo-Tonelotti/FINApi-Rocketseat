@@ -23,9 +23,9 @@
 
 
 ### Rotas
--POST /account - cadastro de usuario
+- POST /account - cadastro de usuario
 
--GET /statement/ - retorna operações feitas pelo usuario
+- GET /statement/ - retorna operações feitas pelo usuario
 
 - POST /deposit - executa a operação de deposito na conta
 
